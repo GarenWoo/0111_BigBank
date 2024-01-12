@@ -1,5 +1,7 @@
 # 练习题（01.10）
 
+![IMG0_Task](./images/IMG0_Task.png)
+
 ### Ownable 合约
 
 **Ownable 合约已部署至：**
